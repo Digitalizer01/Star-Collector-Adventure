@@ -4,6 +4,8 @@ This project is a platform game developed using Phaser, a framework for creating
 
 ## Game Description
 
+![Screenshot](images/screenshot.png)
+
 The objective of the game is to collect all the stars in the map while avoiding being hit by a bouncing ball. Once all the stars are collected, a little ball spawns and starts flying around the map, attempting to hit the player. The player must navigate the platform using arrow keys for movement and the space key for jumping.
 
 ## Installation and Setup
